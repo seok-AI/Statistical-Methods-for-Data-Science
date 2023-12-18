@@ -3,8 +3,8 @@
 
 ## Content
 1. [Introduction](#Introduction)
-2. [Discussion(English)](#Discussion\[English\])
-3. [Discussion(Korean)](#Discussion\[Korean\])
+2. [Discussion(English)](#Discussion-English)
+3. [Discussion(Korean)](#Discussion-Korean)
 4. [Reference](#Reference)
 
 
