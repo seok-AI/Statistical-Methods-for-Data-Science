@@ -40,6 +40,6 @@ The experience and insights gained from this course will be of great help in my 
 이 수업을 통해 얻은 경험과 통찰력은 이후의 데이터 사이언스 학습과 경력에 큰 도움이 될 것입니다. 
 
 ## Reference
-/* https://github.com/gedeck/practical-statistics-for-data-scientists
-/* https://github.com/andrewgbruce/statistics-for-data-scientists
-/* https://intelligent-big-data-lab.notion.site/intelligent-big-data-lab/Intelligent-Big-Data-LAB-University-of-Seoul-43fc8980744f4441b52a1ae200a94523
+* https://github.com/gedeck/practical-statistics-for-data-scientists
+* https://github.com/andrewgbruce/statistics-for-data-scientists
+* https://intelligent-big-data-lab.notion.site/intelligent-big-data-lab/Intelligent-Big-Data-LAB-University-of-Seoul-43fc8980744f4441b52a1ae200a94523
