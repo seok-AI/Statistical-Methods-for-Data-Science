@@ -28,7 +28,7 @@ These two topics demonstrate the complementary relationship between statistics a
 The experience and insights gained from this course will be of great help in my future data science learning and career.
 
 ## Discussion(Korean)
-한 학기 동안 배운 통계적 방법론 수업에서 통찰력을 얻었습니다. 특히, 3단원에서 배운 통계적 실험과 유의성 검정과 5단원에서 배운 분류에 대한 깊이 있는 이해는 데이터 사이언스에 있어 중요한 부분을 강조하고 있습니다.
+한 학기 동안 배운 통계적 방법론 수업에서 통찰력을 얻었습니다. 특히, 3단원에서 배운 통계적 실험과 유의성 검정과 5단원에서 배운 분류는 데이터 사이언스에 있어 중요한 부분을 강조하고 있습니다.
 
 통계적 실험과 유의성 검정은 많은 데이터 사이언티스트들이 놓치기 쉽지만, 이는 실제로 데이터 분석의 핵심적인 부분입니다. A/B 검정, 가설 검정, 재표본 추출, 통계적 유의성과 p-value, t 검정 등의 방법은 과학적 접근 방식을 통해 데이터로부터 유의미한 결론을 도출하는 데 필수적입니다. 이러한 통계적 접근법은 데이터 분석에 있어 중요한 역할을 하며, 이를 통해 기존에 수행했던 EDA를 넘어서 다양한 측면에서의 데이터 탐구를 가능하게 합니다.
 
